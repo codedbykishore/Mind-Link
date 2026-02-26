@@ -1,32 +1,33 @@
 # PPT Submission — Mind-Link (PhishGuard Vision)
 
-> All content needed for your hackathon presentation, organized slide-by-slide.
+> All content for your hackathon PPT — startup-pitch tone, 14 data-driven chart specs, bold impact storytelling.
 
 ## Files
 
-| File | Slide | Topic |
-|------|-------|-------|
-| `slide-01-team-details.md` | Page 01 | Team name, members, contacts |
-| `slide-02-idea.md` | Page 02 | Problem statement & solution brief |
-| `slide-03-opportunities.md` | Page 03 | Market size, why now, target users |
-| `slide-04-features.md` | Page 04 | All 6 features with API mapping |
-| `slide-05-process-flow.md` | Page 05 | Process flow + 3-stage pipeline diagram |
-| `slide-06-wireframes.md` | Page 06 | Popup, warning banner, modal wireframes |
-| `slide-07-architecture.md` | Page 07 | System architecture, two-world bridge, data layer |
-| `slide-08-technologies.md` | Page 08 | Tech stack, APIs used, patterns |
-| `slide-09-amd-usage.md` | Page 09 | AMD product alignment & synergy |
-| `slide-10-cost.md` | Page 10 | $0 cost breakdown + competitor comparison |
-| `slide-11-prototype.md` | Page 11 | Working demo, test sites, metrics |
-| `slide-12-impact-edge.md` | Page 12 | Social impact, competitive edge, roadmap |
+| File | Slide | Content | Charts |
+|------|-------|---------|--------|
+| `slide-01-team-details.md` | 01 | Team name, members, contacts | — |
+| `slide-02-idea.md` | 02 | Problem ($10.3B crisis) + solution | Chart 1: Phishing Loss Funnel |
+| `slide-03-opportunities.md` | 03 | Market size, timing, segments | Chart 2: Market Size Bars, Chart 3: User Segment Donut |
+| `slide-04-features.md` | 04 | 6 features + API mapping | Chart 4: Feature Radar, Chart 5: API Usage Pie |
+| `slide-05-process-flow.md` | 05 | Flow diagrams + Sarah story | Chart 6: T&C Waterfall, Chart 7: Accuracy Bars |
+| `slide-06-wireframes.md` | 06 | Popup, banner, modal wireframes | — |
+| `slide-07-architecture.md` | 07 | System architecture, bridge, cache | Chart 8: Performance Gantt |
+| `slide-08-technologies.md` | 08 | Tech stack, 8 Chrome APIs, patterns | Chart 9: Tech Pyramid, Chart 10: Deps Comparison |
+| `slide-09-amd-usage.md` | 09 | AMD Ryzen AI NPU alignment | — |
+| `slide-10-cost.md` | 10 | $0 cost breakdown, competitor table | Chart 11: Cost Bars, Chart 12: Scalability Line |
+| `slide-11-prototype.md` | 11 | Working demo, test sites, metrics | — |
+| `slide-12-impact-edge.md` | 12 | Impact, competitive edge, roadmap | Chart 13: Competitive Radar, Chart 14: Before/After Bars |
 
 ## Full Content Reference
 
-See [../ppt-content.md](../ppt-content.md) for the complete consolidated guide.
+See [../ppt-content.md](../ppt-content.md) for the master chart index + consolidated guide.
 
 ## How to Use
 
-1. Open each slide file in order
-2. Copy-paste content into your presentation tool (Google Slides, PowerPoint, etc.)
-3. Replace `[Your Name]` and `[Your Email]` in Slide 01
-4. Convert ASCII diagrams to visual diagrams using your preferred tool
+1. Open each slide file — copy-paste content into Google Slides / PowerPoint / Canva
+2. Replace `[Your Name]` and `[Your Email]` in Slide 01
+3. **Build charts** using the data tables in each slide file (every chart has exact values, colors, labels)
+4. Convert ASCII diagrams to visual diagrams
 5. Add screenshots from the working prototype for visual slides
+6. **Key chart to nail:** Chart 12 (Scalability Line) — the flat $0 line vs. exponential competitors is the most dramatic visual in the deck

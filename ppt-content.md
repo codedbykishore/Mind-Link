@@ -2,6 +2,30 @@
 
 > Complete slide-by-slide content for your hackathon presentation.
 > Problem Statement: **AI + Cybersecurity & Privacy**
+> Tone: **Startup Pitch — bold claims, big numbers, emotional hooks**
+
+---
+
+## CHART INDEX — 14 Data-Driven Visualizations
+
+> Each chart has full data tables in the individual slide files under `ppt-submission/`.
+
+| # | Chart Name | Type | Slide | Key Data Point |
+|---|-----------|------|-------|----------------|
+| 1 | **Phishing Loss Funnel** | Funnel | 02 | $10.3B → $3.4B elderly → 0 on-device tools → PhishGuard |
+| 2 | **Market Size Bars** | Horizontal Bar | 03 | 500M elderly users, $10.3B losses, 65% Chrome share |
+| 3 | **Target User Segments** | Donut Pie | 03 | 3.2B addressable users across 5 segments |
+| 4 | **Feature-Quality Radar** | Radar/Spider | 04 | PhishGuard 10/10 privacy vs. competitors 4/10 |
+| 5 | **API Usage Distribution** | Pie | 04 | Prompt 60%, Summarizer 15%, Rewriter 15%, Translator 10% |
+| 6 | **T&C Reduction Waterfall** | Waterfall | 05 | 5,000 words → 200 → 60 (98.8% reduction) |
+| 7 | **Detection Accuracy Bars** | Grouped Bar | 05 | 95% combined accuracy vs. 75% industry average |
+| 8 | **Performance Timeline** | Gantt | 07 | 8s phishing cold / 14.5s T&C cold / <0.3s cached |
+| 9 | **Tech Stack Pyramid** | Pyramid/Layer | 08 | 7 layers from Gemini Nano → User |
+| 10 | **Zero Deps Comparison** | Stacked Bar | 08 | Us: 0 deps vs. React ext: 200 deps |
+| 11 | **Annual Cost Comparison** | Vertical Bar | 10 | $0 vs. Norton $59.88/yr vs. McAfee $47.88/yr |
+| 12 | **Scalability Line** | Line | 10 | Flat $0 line vs. exponential competitors at 10M users |
+| 13 | **Competitive Edge Radar** | Radar | 12 | Green polygon engulfs all competitor polygons |
+| 14 | **Before vs. After Impact** | Grouped Horizontal | 12 | 25 min → 15 sec, $140/yr → $0, 75% → 95% accuracy |
 
 ---
 
