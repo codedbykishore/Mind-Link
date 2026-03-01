@@ -1,20 +1,28 @@
-# SLIDE 01 — Team Details
+# SLIDE 01 — Team Details  *(Page 1 of 7)*
 
 ---
 
 ## Team: Mind-Link
 
-### Project: PhishGuard Vision — AI-Powered Safety Shield
-
-| Role | Name | Contact |
-|------|------|---------|
-| Developer / Lead | *[Your Name]* | *[Your Email]* |
-| *(Add more team members here)* | — | — |
+### PhishGuard Vision
+**On-device AI security — powered by AMD Ryzen AI. Protecting the people who need it most.**
 
 ---
 
-**Problem Statement:** AI + Cybersecurity & Privacy
+| Role | Name |
+|------|------|
+| Lead Developer | *[Your Name]* |
+| *(Add teammates)* | — |
 
+**College:** *[Your College Name]*
 **GitHub:** https://github.com/HIRU-VIRU/Mind-Link
 
-**Tagline:** *Safer digital experiences — simple, explainable, effective.*
+---
+
+## One-Line Pitch
+
+> *"A free, private, AMD-accelerated AI security extension that protects elderly users and students from phishing, scams, and hidden subscription traps — all without sending a single byte to the cloud."*
+
+**Problem Statement Track:** AI + Cybersecurity & Privacy
+
+**Core Technology:** On-device AI inference running on **AMD Ryzen AI NPU** — zero cloud dependency, zero latency, zero cost.

@@ -1,33 +1,66 @@
-# PPT Submission — Mind-Link (PhishGuard Vision)
+# PhishGuard Vision — PPT Submission (AMD Hackathon)
 
-> All content for your hackathon PPT — startup-pitch tone, 14 data-driven chart specs, bold impact storytelling.
+**Project:** Mind-Link / PhishGuard Vision  
+**Track:** AI + Cybersecurity & Privacy  
+**Framework:** AMD Ryzen AI NPU + On-Device AI APIs  
+**Repo:** github.com/HIRU-VIRU/Mind-Link  
 
-## Files
+---
 
-| File | Slide | Content | Charts |
-|------|-------|---------|--------|
-| `slide-01-team-details.md` | 01 | Team name, members, contacts | — |
-| `slide-02-idea.md` | 02 | Problem ($10.3B crisis) + solution | Chart 1: Phishing Loss Funnel |
-| `slide-03-opportunities.md` | 03 | Market size, timing, segments | Chart 2: Market Size Bars, Chart 3: User Segment Donut |
-| `slide-04-features.md` | 04 | 6 features + API mapping | Chart 4: Feature Radar, Chart 5: API Usage Pie |
-| `slide-05-process-flow.md` | 05 | Flow diagrams + Sarah story | Chart 6: T&C Waterfall, Chart 7: Accuracy Bars |
-| `slide-06-wireframes.md` | 06 | Popup, banner, modal wireframes | — |
-| `slide-07-architecture.md` | 07 | System architecture, bridge, cache | Chart 8: Performance Gantt |
-| `slide-08-technologies.md` | 08 | Tech stack, 8 Chrome APIs, patterns | Chart 9: Tech Pyramid, Chart 10: Deps Comparison |
-| `slide-09-amd-usage.md` | 09 | AMD Ryzen AI NPU alignment | — |
-| `slide-10-cost.md` | 10 | $0 cost breakdown, competitor table | Chart 11: Cost Bars, Chart 12: Scalability Line |
-| `slide-11-prototype.md` | 11 | Working demo, test sites, metrics | — |
-| `slide-12-impact-edge.md` | 12 | Impact, competitive edge, roadmap | Chart 13: Competitive Radar, Chart 14: Before/After Bars |
+## Presentation Structure (7 Slides)
 
-## Full Content Reference
+| Slide | File | Topic | Key AMD Element |
+|-------|------|-------|----------------|
+| 01 | [slide-01-team-details.md](slide-01-team-details.md) | Team Details | AMD NPU intro |
+| 02 | [slide-02-problem-statement.md](slide-02-problem-statement.md) | Problem Statement | Ananya story, $17.4B gap |
+| 03 | [slide-03-proposed-solution.md](slide-03-proposed-solution.md) | Proposed Solution | AMD NPU at solution core |
+| 04 | [slide-04-architecture.md](slide-04-architecture.md) | Architecture | AMD XDNA NPU layer diagram |
+| 05 | [slide-05-tech-stack.md](slide-05-tech-stack.md) | Tech Stack | AMD pyramid base |
+| 06 | [slide-06-novelty.md](slide-06-novelty.md) | Novelty | 6 industry firsts |
+| 07 | [slide-07-impacts-benefits.md](slide-07-impacts-benefits.md) | Impacts & Benefits | AMD = $0 at any scale |
 
-See [../ppt-content.md](../ppt-content.md) for the master chart index + consolidated guide.
+---
 
-## How to Use
+## Charts Index (14 total across 7 slides)
 
-1. Open each slide file — copy-paste content into Google Slides / PowerPoint / Canva
-2. Replace `[Your Name]` and `[Your Email]` in Slide 01
-3. **Build charts** using the data tables in each slide file (every chart has exact values, colors, labels)
-4. Convert ASCII diagrams to visual diagrams
-5. Add screenshots from the working prototype for visual slides
-6. **Key chart to nail:** Chart 12 (Scalability Line) — the flat $0 line vs. exponential competitors is the most dramatic visual in the deck
+| Chart | Slide | Type | Key Message |
+|-------|-------|------|-------------|
+| Phishing Loss Funnel | 02 | Horizontal bars | $17.4B → 0 on-device solutions |
+| Victim Segment Donut | 02 | Donut | Elderly = highest vulnerability |
+| How It Works Flow | 03 | 3-step diagram | AMD NPU at center |
+| Before/After Comparison | 03 | Grouped bars | 88% phishing reduction |
+| Architecture Gantt | 04 | Gantt/timeline | AMD NPU 1.8–2.4× speedup |
+| Script-to-NPU Mapping | 04 | Table graphic | Every script uses AMD |
+| Tech Stack Pyramid | 05 | Pyramid | AMD = foundation layer |
+| Dependency Comparison | 05 | Stacked bar | 0 deps vs 50-80 for competitors |
+| Novelty Radar | 06 | Spider chart | PhishGuard scores 10; others avg <5 |
+| T&C Pipeline Flow | 06 | Flow diagram | 3-stage chain, AMD NPU only |
+| Detection Speed Table | 06 | Bar comparison | AMD NPU vs CPU-only |
+| Impact Before/After | 07 | Grouped horizontal | −88% phishing, +1114% T&C comprehension |
+| Scalability vs Cost | 07 | Line graph | $0/user at any scale |
+| Competitive Summary | 07 | Comparison table | 6 axes, PhishGuard wins all |
+
+---
+
+## AMD Technology References in Slides
+
+| AMD Technology | Mentioned In | Usage |
+|---------------|-------------|-------|
+| AMD Ryzen AI NPU (XDNA) | All 7 slides | Core inference engine |
+| AMD APU (integrated GPU) | Slides 05, 07 | Secondary AI compute |
+| AMD ROCm | Slides 05, 07 | Future model fine-tuning |
+| AMD Instinct | Slides 05, 07 | Future enterprise training |
+
+---
+
+## Notes for PPT Designer
+
+- **AMD brand red** (`#ED1C24`) for AMD hardware layer in all diagrams
+- Font sizes for elderly-friendly: minimum 18pt on visible slides
+- Ananya's story threads through slides 02, 03, 07 (opening → solution → close)
+- Closing slide tagline: *"4 on-device AI APIs. 0 cloud calls. 500 million people protected. Powered by AMD."*
+- Keep Chrome/Google references minimal — AMD is the hero, Chrome is just the platform
+
+---
+
+*Generated for the AMD Hackathon submission. Last updated: AMD-rewrite (7-slide version).*
